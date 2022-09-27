@@ -5,6 +5,9 @@
  * @package HelloElementorChild
  */
 
+include_once __DIR__ . '/test.php';
+
+
 /**
  * Load child theme css and optional scripts
  *
